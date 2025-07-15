@@ -46,7 +46,7 @@ You can explore every dashboard view—Finance, Sales, Marketing, Supply Chain, 
 
 ## 📸 Screenshots
 
-_Include screenshots of your main dashboard views here—Finance, Sales, Marketing, Supply Chain, Executive Summary._
+_Include screenshots of your main dashboard views here — **[Finance](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**, **[Sales](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**, **[Marketing](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**, **[Supply Chain](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**, **[Executive Summmay](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**._
 
 ---
 
