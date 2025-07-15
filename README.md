@@ -1,4 +1,4 @@
-# 🚀 Business Insights 360 – Power BI Case Study
+# 🚀 Business Insights 360 – Power BI 
 
 Welcome to the repository for **Business Insights 360**, my end-to-end Power BI project developed as part of a real-world simulation for AtliQ Technologies. This project highlights my skills in data preparation, modeling, visualization, and interactive dashboard design.
 
