@@ -46,7 +46,7 @@ You can explore every dashboard view—Finance, Sales, Marketing, Supply Chain, 
 
 ## 📸 Screenshots
 
-_Include screenshots of your main dashboard views here — **[Finance](https://github.com/addankisrinivas/Business-Insights-360/blob/main/Finance_view.png)**, **[Sales](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**, **[Marketing](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**, **[Supply Chain](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**, **[Executive Summmay](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)**._
+_Include screenshots of your main dashboard views here — **[Finance](https://github.com/addankisrinivas/Business-Insights-360/blob/main/Finance_view.png)**, **[Sales](https://github.com/addankisrinivas/Business-Insights-360/blob/main/Sales_view.png)**, **[Marketing](https://github.com/addankisrinivas/Business-Insights-360/blob/main/Marketing_view.png)**, **[Supply Chain](https://github.com/addankisrinivas/Business-Insights-360/blob/main/Supply_chain_view.png)**, **[Executive Summmay](https://github.com/addankisrinivas/Business-Insights-360/blob/main/Executive_view.png)**._
 
 ---
 
