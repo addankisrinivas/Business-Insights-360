@@ -38,7 +38,7 @@ Deliver a modern, fully interactive dashboard for faster, more effective busines
 
 Experience the dashboard in action!  
 **Interactive Live Dashboard:**  
-[Business Insights 360 Live Demo](https://lnkd.in/dXQetcah)
+[Business Insights 360 Live Demo](https://app.powerbi.com/view?r=eyJrIjoiZTY3NGQ2NDAtZjM3OC00MTg4LWE0ZjEtMDk3ODU1NWFmNDdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 You can explore every dashboard view—Finance, Sales, Marketing, Supply Chain, and Executive—directly through the live interactive platform.
 
